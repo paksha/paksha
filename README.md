@@ -4,8 +4,6 @@
 - 💬 I studied Computer Science at the University of Waterloo
 - 🌱 Some of my interests are: machine learning, distributed systems, and psychology
 
-I'm Akshay, a software engineer currently working in New York City. I studied Computer Science at the University of Waterloo. Some of my interests include machine learning, distributed systems, and psychology.
-
 <div>
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=paksha&count_private=true&show_icons=true&hide_rank=true&hide=issues&border_color=ffffff" />
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paksha&layout=compact&border_color=ffffff" />
