@@ -6,7 +6,7 @@
 
 <div>
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=paksha&count_private=true&show_icons=true&hide_rank=true&hide=issues&border_color=ffffff" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paksha&layout=compact&border_color=ffffff" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paksha&hide=jupyter%20notebook&layout=compact&border_color=ffffff" />
 </div>
 
 <!--
