@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 👨🏾‍💻 I’m currently working as a software engineer in New York City
+- 👨🏾‍💻 I’m a software engineer based in New York City
 - 📚 I studied Computer Science at the University of Waterloo
 - 💡 Some of my interests are: machine learning, distributed systems, and psychology
 <!--
