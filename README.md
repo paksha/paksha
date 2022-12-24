@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 - 👨🏾‍💻 I’m currently working as a software engineer in New York City
 - 📚 I studied Computer Science at the University of Waterloo
